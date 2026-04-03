@@ -101,6 +101,12 @@ body{
 /* BOTÃO DE NAVEGAÇÃO */
 .btn-link{
     background:#52da7b;
+    display:block;
+    margin:12px auto; /* ← espaço curto e bonito */
+    width:fit-content;
+    text-align:center;
+    padding:10px 20px;
+    border-radius:6px;
 }
 
 /* FORMULÁRIO */
